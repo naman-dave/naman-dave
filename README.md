@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naman-dave
-- 🌱 I’m currently learning about docker, k8s and blockchain
+<!-- - 🌱 I’m currently learning about docker, k8s and blockchain -->
 - 📫 How to reach me namandave@duck.com
 
 <!---
