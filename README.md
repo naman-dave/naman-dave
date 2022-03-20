@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <div id="badges">
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=naman-dave&style=flat-square&color=blue" alt=""/>
+</div>
+
 - 👋 Hi, I’m @naman-dave
 <!-- - 🌱 I’m currently learning about docker, k8s and blockchain -->
 - 📫 How to reach me namandave@duck.com
